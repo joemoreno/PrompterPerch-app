@@ -14,6 +14,7 @@ presentations.
 - Stays on top of other apps and keeps scrolling while you use them.
 - Adjustable width, text size, speed and number of lines; remembers your
   settings and your last 10 scripts.
+- Comes with 12 famous speeches and poems to practice with.
 - No account, no internet access, no camera or microphone access.
 
 ## Download
@@ -50,10 +51,10 @@ xattr -dr com.apple.quarantine /Applications/PrompterPerch.app
 
 ## Getting started
 
-Choose **File › Open Example Script** for a short script that walks you
-through the keys, or **File › Open…** to open your own. The script opens
-paused at the top; press **Space** to start. The gear button opens the
-settings. **Help › Keyboard Controls** lists the keys.
+Click **Try an example** to load one of 12 famous speeches and poems, or
+choose **File › Open…** to open your own script. It opens paused at the top;
+press **Space** to start. The gear button opens the settings, and the **i**
+button under the speed shows short instructions.
 
 ## License
 
