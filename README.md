@@ -19,6 +19,10 @@ presentations.
 
 ## Screenshots
 
+<p align="center"><img src="images/screenshot-desktop.png" width="800" alt="A Mac desktop with the Golden Gate Bridge wallpaper and nothing else on it but Teleprompter Perch: a dark panel at the top center of the screen showing the opening of the Gettysburg Address"></p>
+
+<p align="center"><em>On the desktop: the panel sits at the top center, right under the camera.</em></p>
+
 <p align="center"><img src="images/screenshot-renascence.png" width="700" alt="Teleprompter Perch at the top of the screen, scrolling Edna St. Vincent Millay's Renascence in large white text on a dark panel, with play, settings, speed and info controls at the right"></p>
 
 <p align="center"><em>Renascence, by Edna St. Vincent Millay, one of the 12 bundled examples.</em></p>
