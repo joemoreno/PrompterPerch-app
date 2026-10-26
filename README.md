@@ -17,6 +17,20 @@ presentations.
 - Comes with 12 famous speeches and poems to practice with.
 - No account, no internet access, no camera or microphone access.
 
+## Screenshots
+
+<p align="center"><img src="images/screenshot-renascence.png" width="700" alt="Teleprompter Perch at the top of the screen, scrolling Edna St. Vincent Millay's Renascence in large white text on a dark panel, with play, settings, speed and info controls at the right"></p>
+
+<p align="center"><em>Renascence, by Edna St. Vincent Millay, one of the 12 bundled examples.</em></p>
+
+<p align="center"><img src="images/screenshot-settings.png" width="700" alt="The Gettysburg Address in the panel, with the settings open below it: speed, text size, width, visible lines, Close Script, and Sit below the menu bar"></p>
+
+<p align="center"><em>The settings, under the gear: speed, text size, width and visible lines.</em></p>
+
+<p align="center"><img src="images/screenshot-instructions.png" width="700" alt="The Gettysburg Address in the panel, with the instructions open below it: how to open a script, the keys, and what the gear adjusts"></p>
+
+<p align="center"><em>The i button explains the keys.</em></p>
+
 ## Download
 
 **[Download the latest version](https://github.com/joemoreno/TeleprompterPerch-app/releases/latest)**
