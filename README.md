@@ -14,6 +14,8 @@ presentations.
 - Stays on top of other apps and keeps scrolling while you use them.
 - Adjustable width, text size, speed and number of lines; remembers your
   settings and your last 10 scripts.
+- An optional stopwatch to time your speech: turn on **Show stopwatch** under
+  the gear, then click the time to start or stop it.
 - Comes with 12 famous speeches and poems to practice with.
 - No account, no internet access, no camera or microphone access.
 
